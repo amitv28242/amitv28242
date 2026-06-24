@@ -4,7 +4,7 @@
 
 💻 Java • Spring Boot • Hibernate (JPA) • React • MySQL • REST APIs
 
-☁️ Salesforce Admin • Apex • SOQL • SOSL
+☁️ Salesforce Admin • Apex • SOQL • SOSL • Trigger • Visualforce Page • Intgration
 
 🌱 Currently learning Microservices, System Design & Cloud Technologies
 
@@ -44,6 +44,6 @@
 
 ![Amit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitv28242&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitv28242&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amitv242&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=amitv28242&theme=tokyonight)
