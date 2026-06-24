@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi 👋, I'm Amit Verma
 
-<!--
-**amitv28242/amitv28242** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- Java Backend Developer
+- Spring Boot Enthusiast
+- Open Source Learner
 
-Here are some ideas to get you started:
+## Skills
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Git & GitHub
+- REST APIs
+
+
+
+## Connect With Me
+- [LinkedIn](https://linkedin.com/in/amit-verma28242)
+
+- [Email](mailto:amitv28242@gmail.com)
+
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amitv28242&show_icons=true)
