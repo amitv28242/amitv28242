@@ -10,7 +10,7 @@
 
 📫 Reach me at: amitv28242@gmail.com
 
-🔍 Open to Software Development Opportunities
+🔍 Open to Software Development and Entry Level Opportunities
 
 ## Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -32,7 +32,6 @@
 ![SOSL](https://img.shields.io/badge/SOSL-1798C1?style=for-the-badge)
 ![Open to Opportunities](https://img.shields.io/badge/Open_to_Opportunities-28A745?style=for-the-badge)
 
-## Connect With Me
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: [Amit Verma](https://linkedin.com/in/amit-verma28242)
