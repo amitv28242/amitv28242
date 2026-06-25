@@ -100,14 +100,16 @@
 
 ---
 ---
-## 🏆 LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/Amitv28242?theme=dark&font=Karma)
 
 ## 💻 Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Amitv28242/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/amitv28242)
+
+## 🏆 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Amitv28242?theme=dark&font=Karma)
+
 
 ## 📊 GitHub Stats
 
