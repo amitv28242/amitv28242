@@ -43,6 +43,7 @@
 ## 🏆 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Amitv28242?theme=dark&font=Karma)
+![HackerRank Stats](https://leetcard.jacoblin.cool/amitv28242?theme=dark&font=Karma)
 
 ## 💻 Coding Profiles
 
