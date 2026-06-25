@@ -39,14 +39,15 @@
 - 📧 Email: [amitv28242@gmail.com](mailto:amitv28242@gmail.com)
 
 ---
-## 💻 Coding Platforms
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/your-username/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/your-username)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/your-username)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/your-username)
-
 ---
+## 🏆 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Amitv28242?theme=dark&font=Karma)
+
+## 💻 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Amitv28242/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/amitv28242)
 
 ## 🌐 Connect With Me
 
